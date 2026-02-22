@@ -1,6 +1,5 @@
 ---
 title: '¿Cuanto tiempo tarda en activarse el servicio?'
-date: '00:17 22-02-2026'
 taxonomy:
     category:
         - docs
