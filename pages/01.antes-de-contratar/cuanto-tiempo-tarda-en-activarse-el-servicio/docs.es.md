@@ -3,6 +3,7 @@ title: '¿Cuanto tiempo tarda en activarse el servicio?'
 taxonomy:
     category:
         - docs
+published: true
 ---
 
 Si el pago fue realizado con tarjeta de crédito/débito o PayPal la activación es automática e inmediata.
