@@ -4,6 +4,7 @@ taxonomy:
     category:
         - docs
 published: true
+visible: true
 ---
 
 Si el pago fue realizado con tarjeta de crédito/débito o PayPal la activación es automática e inmediata.
