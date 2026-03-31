@@ -1,2 +1,2 @@
-# docs
-Documentación del sitio
+# Docs
+Documentación del sitio Pecmo.
